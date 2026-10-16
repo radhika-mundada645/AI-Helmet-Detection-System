@@ -1,0 +1,19 @@
+# Core Computer Vision & Deep Learning
+ultralytics>=8.1.0
+torch>=2.2.0
+torchvision>=0.17.0
+opencv-python>=4.8.0
+pillow>=10.0.0
+numpy>=1.24.0
+
+# Web Dashboard & APIs
+streamlit>=1.30.0
+fastapi>=0.109.0
+uvicorn>=0.27.0
+python-multipart>=0.0.6
+
+# Utilities & Testing
+pyyaml>=6.0
+pytest>=8.0.0
+requests>=2.31.0
+python-dotenv>=1.0.0

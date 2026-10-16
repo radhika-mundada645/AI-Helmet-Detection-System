@@ -1,0 +1,16 @@
+# SafeRide AI - Verified Dataset Configuration
+# Points to untouched dataset at: c:/Users/hp/Downloads/helmet dataset/helmetData
+
+path: "c:/Users/hp/Downloads/helmet dataset/helmetData"
+train: "train/images"
+val: "valid/images"
+test: "test/images"
+
+# Verified number of classes
+nc: 3
+
+# Verified class names and index mapping
+names:
+  0: helmet
+  1: without
+  2: two_wheeler
